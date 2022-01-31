@@ -1,0 +1,17 @@
+
+pytanie a1
+odpowiedz a1
+odpowiedz b1
+odpowiedz c1
+odpowiedz d1
+pytanie a2
+odpowiedz a2
+odpowiedz b2
+odpowiedz c2
+odpowiedz d2
+pytanie a3
+odpowiedz a3
+odpowiedz b3
+odpowiedz c3
+odpowiedz d3
+
